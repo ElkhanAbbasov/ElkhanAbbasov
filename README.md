@@ -19,7 +19,7 @@ Welcome to my GitHub profile. I’m a **3rd-year student at Bilkent University**
 ---
 
 ## Connect with Me
-- [LinkedIn](linkedin.com/in/elkhanabbasov/)
+- [LinkedIn](https://www.linkedin.com/in/elkhanabbasov/)
 - [Email](mailto:elkhan.abbasov@ug.bilkent.edu.tr)
 
 ---
