@@ -7,14 +7,14 @@ Welcome to my GitHub profile. I’m a **3rd-year student at Bilkent University**
 ## About Me
 - 🎓 **University**: Bilkent University
 - 📚 **Major**: Computer Technologies and Information Systems
-- 🔐 **Interests**: Cybersecurity, Network Security, Systems Programming, Software Engineering
+- 🔐 **Interests**: Cybersecurity, Network Security, Systems Programming, Software Engineering, Backend Development
 
 ---
 
 ## Skills
 - **Programming Languages**: Java, C, C++, C#
 - **Web Development**: HTML, CSS, JavaScript, React
-- **Tools & Technologies**: Git, Docker, Linux, SQL, Wireshark, Nmap, Swing, AWT, .Net
+- **Tools & Technologies**: Git, Docker, Spring Boot, Linux, SQL, Wireshark, Nmap, Swing, AWT, .Net
 
 ---
 
