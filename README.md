@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I’m a **3rd-year student at Bilkent University**
 ---
 
 ## Skills
-- **Programming Languages**: Java, C, C++, C#
+- **Programming Languages**: Java, C, C++, C#, Python
 - **Web Development**: HTML, CSS, JavaScript, React, PHP
 - **Tools & Technologies**: Git, Docker, Spring Boot, Linux, SQL, Wireshark, Nmap, Swing, AWT, .Net
 
