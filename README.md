@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile. I’m a **3rd-year student at Bilkent University**, studying **Computer Technologies and Information Systems**. Here, you’ll find my projects, coursework, experiments, and more. 
+Welcome to my GitHub profile. I’m a **4th-year student at Bilkent University**, studying **Computer Technologies and Information Systems**. Here, you’ll find my projects, coursework, experiments, and more. 
 
 ---
 
